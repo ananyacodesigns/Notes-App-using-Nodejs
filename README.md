@@ -8,3 +8,5 @@ The app has 4 commands:
 2. remove note : node app.js remove --title="[title]" (deletes the note with the title your provide)
 3. list note : node app.js list (lists all notes for you)
 4. read note : node app.js read --title="[title]"
+
+Don't forget to install all node modules and packages before using
